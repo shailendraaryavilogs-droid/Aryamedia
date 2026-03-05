@@ -1,0 +1,32 @@
+
+body{
+font-family:Arial;
+background:#f2f2f2;
+text-align:center;
+}
+
+header{
+background:red;
+color:white;
+padding:20px;
+}
+
+nav{
+background:black;
+padding:10px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.video-card{
+background:white;
+padding:15px;
+margin:20px auto;
+width:380px;
+box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
